@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "LittleGermanBoi",
+    "username": "Slobos-AFK-Aternos-Bot",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "threadtail.aternos.host:21307",
-    "port": threadtail.aternos.host:21307,
+    "port": 21307,
     "version": "1.21.11",
     "try-creative": false
   },
