@@ -8,7 +8,7 @@
   "server": {
     "ip": "threadtail.aternos.host:21307",
     "port": 21307,
-    "version": "1.21.11",
+    "version": "1.21.11 {130}",
     "try-creative": false
   },
   "position": {
