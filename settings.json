@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "strongerstill-1lsl.aternos.me",
+    "ip": "threadtail.aternos.host:21307",
     "port": 21307,
     "version": "1.21.11",
     "try-creative": false
